@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "striking-joy-278914",
+  "private_key_id": "10dd807c199ff1d27211c7fe5df8e44763545c5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC46x27lyBDFWZE\nOCHZZoYaJwzVs0b2uryKxkA67oNnREzCkrRDLQu211GTsYrI6uH0hu3hL2xDyOOR\nQGFsV+5lBDMmw7UxDJOYFn2Xokz6lpTJ3ATceH0sI5d4mhdU6iCgZ0IIt2JYdEa0\nPxp+3aytDHorO8HBP3Ou88Nxo3ToEHRUF/sA+bi+E91lm08/2ddWsTbJ3nsQQGLJ\n2XgkEslH6Kcx24EtGpfxIh1nH44Oe54venH4e7u5XiONSacDsSkHHs9AvWnzcEdm\nD4TG6Dw+VCSiA/8OO52y6HGbBhexVFxb3v01sRPvlQinHU52oSJb8A7gzjuor1dF\nLiTHibpBAgMBAAECggEAMGvYoEuFdit/WPO94ViYWvbIxJiqR2dEga5CGWxlWkAn\nPXf+3exIufsN8He4GL5wpoBCgAnT9rf+5wUNvboUwbzkzAzJQGvDpjqVboRgVeni\nUi1b1IN0e39iZYEsBN895eLEBtZGWVUxQneXr4rKcZHn17RRGxJLb4+DKRmdPjrG\naU4ayi/aKcM7RYxShn5/uE+Lzw28nUIDwTfADADqKFh5w3ruDN/uXZjQ1aCZ6qQk\nRvMKeK3OcYtl+gAT6rupiItdZzdu9NjxdWJ1u/BsKwUjgxUwGGaf7YS7UW2YvCCC\nCjJX8L/Wj0N8haSCBGRSps9s7/HpH6xts2afGmZE9QKBgQDtdT3OEoNkArtuBZ9H\nY2VqbDPrnbvUDv0EYcFuM6UrCyEqVu50es3Mb+eQGWrYphB9f3geCObDE41RS/15\n4FVZ5gpAiGLlTNFQVDmLQ4J8VcNCXstChZ2VwKMUAZ2TojdbgdVPbVefRNgA8GRn\nYJkMKLVzAagrwJ8GTF8NB3czswKBgQDHW51qOSy1KiHWGbbISQoLlPLAq0Ep6A7b\n3BXP6eFFfTLc0gZXgsmyKrvs50pac7XOXwRZsr54VjAucIaUakSbvDWZw+6aIMCd\nUiG1kqQPAnVO6y7IpyC70et9ZqzKgPmtFEUq/8V75oMnO4wzKsMMNBAsFsdKObMA\nX/0ivoPwOwKBgQDUuNDzSNZ3w5LQzyyPMVXq7p/clWNsZzj2sfQsmwt98ex2F4Zq\nxpCScjVJe9uh1bK0GnsqvOKtI1jX2XFruzH65P+OLCAcNqLUiX87aPD+HX5ceLsy\nDqzLONVe2MunNAzPZxIGo3d5cJzoynHHwluY7ucN7hAPkfFkHQqRi3yXzQKBgGTt\ned1cQskZInY9IG93otFIQDnQubXYmSUv4A8ZrgW7I7Pt1G4bdbdwsSF32wm+CO4I\n5q/usUVFBTGNoGSlBET/3PcS3cpECJ/dA9nj+pDqwq8Im+/TxNuxpBIhmBsRftXk\nLDxfrwBSLFYBbLI+1O5psUJQ6eYnHftznTko0K0fAoGAJARVyblm7AT+ENuI+tvT\nwZZiLvTNvYKs+fzCGKZRYXERC2Ndd1wOREGO7E47keABlGx0n30CDN6qx3EnnOa4\nzu7JPpqyEo/qtLrz5QScA1H4eb8bBsy9OBYQbdbzyVkg8YJY02R11iiiHpgrFaq/\nBKFSIBXbGAg9KjWYVgtzFas=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smart-mirror@striking-joy-278914.iam.gserviceaccount.com",
+  "client_id": "100408244582576418565",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smart-mirror%40striking-joy-278914.iam.gserviceaccount.com"
+}
